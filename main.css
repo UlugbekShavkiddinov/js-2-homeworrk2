@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.container {
+    max-width: 1250px;
+}
+.left {
+    width: 30%;
+}
+.right {
+    width: 65%;
+
+}
+
+form * {
+    margin: 5px;
+}
+.card__li {
+    width: 367px;
+}
+
+.forImg {
+    object-fit: fill;
+}
